@@ -1,0 +1,13 @@
+
+--------Result--------
+Roll Number       :45
+Name              :rohan
+subject 1         :java
+Marks of Subject 1:89.000000
+subject 2        :python
+Marks of Subject 2:98.000000
+subject 3          :c
+Marks of Subject 3:89.000000
+Total             :276.000000
+Avg               :92.000000
+Grade             :O
